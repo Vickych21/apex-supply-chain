@@ -1,0 +1,7 @@
+oracledb
+pandas
+python-dotenv
+sqlalchemy
+openpyxl
+fastapi
+uvicorn

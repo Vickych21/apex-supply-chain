@@ -1,0 +1,7 @@
+SHIPMENT_ID,PO_ID,SUPPLIER_ID,SUPPLIER_NAME,TRACKING_NUMBER,CARRIER,SHIP_DATE,EXPECTED_ARRIVAL_DATE,ACTUAL_ARRIVAL_DATE,STATUS,ORIGIN_LOCATION,DESTINATION_LOCATION,TRANSIT_DAYS,DAYS_EARLY_LATE,DELIVERY_PERFORMANCE
+1,2,1,Global Components Inc.,FX1000001,FedEx,2026-08-02,2026-08-15,2026-08-14,Delivered,Global Components - USA,Apex Cincinnati Distribution Center,12.0,-1.0,Early
+2,3,1,Global Components Inc.,UPS1000002,UPS,2026-08-11,2026-08-24,,In Transit,Global Components - USA,Apex Columbus Distribution Center,,,Pending
+3,4,2,EuroTech Manufacturing,FDX1000003,FedEx,2026-08-04,2026-08-21,2026-08-20,Delivered,EuroTech Manufacturing - Germany,Apex Cincinnati Distribution Center,16.0,-1.0,Early
+4,5,2,EuroTech Manufacturing,DHL1000004,DHL,2026-08-16,2026-09-02,,Delayed,EuroTech Manufacturing - Germany,Apex Columbus Distribution Center,,,Pending
+5,6,3,Pacific Electronics Ltd.,UPS1000005,UPS,2026-08-06,2026-08-26,2026-08-26,Delivered,Pacific Electronics - Taiwan,Apex Chicago Distribution Center,20.0,0.0,On Time
+6,7,3,Pacific Electronics Ltd.,FDX1000006,FedEx,2026-08-19,2026-09-08,,In Transit,Pacific Electronics - Taiwan,Apex Chicago Distribution Center,,,Pending

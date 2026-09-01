@@ -1,0 +1,19 @@
+PRODUCT_ID,PRODUCT_NAME,CATEGORY,WAREHOUSE_ID,WAREHOUSE_NAME,QUANTITY_ON_HAND,QUANTITY_RESERVED,AVAILABLE_QUANTITY,REORDER_POINT,SAFETY_STOCK,INVENTORY_STATUS
+1,LCD Display 17,Displays,1,Apex Cincinnati Distribution Center,800,100,700,250,100,HEALTHY
+1,LCD Display 17,Displays,2,Apex Columbus Distribution Center,600,75,525,250,100,HEALTHY
+1,LCD Display 17,Displays,3,Apex Chicago Distribution Center,500,50,450,250,100,HEALTHY
+2,Microcontroller X1,Semiconductors,1,Apex Cincinnati Distribution Center,1500,250,1250,500,200,HEALTHY
+2,Microcontroller X1,Semiconductors,2,Apex Columbus Distribution Center,1100,150,950,500,200,HEALTHY
+2,Microcontroller X1,Semiconductors,3,Apex Chicago Distribution Center,1300,200,1100,500,200,HEALTHY
+3,Power Controller P2,Power Components,1,Apex Cincinnati Distribution Center,900,100,800,400,150,HEALTHY
+3,Power Controller P2,Power Components,2,Apex Columbus Distribution Center,750,80,670,400,150,HEALTHY
+3,Power Controller P2,Power Components,3,Apex Chicago Distribution Center,850,100,750,400,150,HEALTHY
+4,LCD Display 15,Displays,1,Apex Cincinnati Distribution Center,700,50,650,300,100,HEALTHY
+4,LCD Display 15,Displays,2,Apex Columbus Distribution Center,500,50,450,300,100,HEALTHY
+4,LCD Display 15,Displays,3,Apex Chicago Distribution Center,650,75,575,300,100,HEALTHY
+5,Microcontroller X2,Semiconductors,1,Apex Cincinnati Distribution Center,1200,200,1000,450,200,HEALTHY
+5,Microcontroller X2,Semiconductors,2,Apex Columbus Distribution Center,900,100,800,450,200,HEALTHY
+5,Microcontroller X2,Semiconductors,3,Apex Chicago Distribution Center,1050,150,900,450,200,HEALTHY
+6,Power Module P5,Power Components,1,Apex Cincinnati Distribution Center,1000,150,850,350,150,HEALTHY
+6,Power Module P5,Power Components,2,Apex Columbus Distribution Center,800,100,700,350,150,HEALTHY
+6,Power Module P5,Power Components,3,Apex Chicago Distribution Center,700,80,620,350,150,HEALTHY

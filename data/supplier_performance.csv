@@ -1,0 +1,4 @@
+SUPPLIER_ID,SUPPLIER_NAME,COUNTRY,SUPPLIER_CATEGORY,LEAD_TIME_DAYS,RELIABILITY_SCORE,TOTAL_PURCHASE_ORDERS,TOTAL_SPEND
+1,Global Components Inc.,USA,Semiconductors,14,96.5,2,42750
+2,EuroTech Manufacturing,Germany,Power Components,18,97.8,2,61650
+3,Pacific Electronics Ltd.,Taiwan,Displays,21,93.2,2,97500
